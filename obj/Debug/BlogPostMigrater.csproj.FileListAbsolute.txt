@@ -1,0 +1,13 @@
+C:\dev\BlogPostMigrater\bin\Debug\BlogPostMigrater.exe.config
+C:\dev\BlogPostMigrater\bin\Debug\BlogPostMigrater.exe
+C:\dev\BlogPostMigrater\bin\Debug\BlogPostMigrater.pdb
+C:\dev\BlogPostMigrater\bin\Debug\CsQuery.dll
+C:\dev\BlogPostMigrater\bin\Debug\System.Net.Http.Extensions.dll
+C:\dev\BlogPostMigrater\bin\Debug\System.Net.Http.Primitives.dll
+C:\dev\BlogPostMigrater\bin\Debug\CsQuery.xml
+C:\dev\BlogPostMigrater\bin\Debug\System.Net.Http.Extensions.xml
+C:\dev\BlogPostMigrater\bin\Debug\System.Net.Http.Primitives.xml
+C:\dev\BlogPostMigrater\obj\Debug\BlogPostMigrater.csproj.App.config
+C:\dev\BlogPostMigrater\obj\Debug\BlogPostMigrater.csprojResolveAssemblyReference.cache
+C:\dev\BlogPostMigrater\obj\Debug\BlogPostMigrater.exe
+C:\dev\BlogPostMigrater\obj\Debug\BlogPostMigrater.pdb
